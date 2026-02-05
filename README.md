@@ -624,6 +624,5 @@ Built with:
 
 [![Stars](https://img.shields.io/github/stars/yourusername/YTRAG?style=social)](https://github.com/yourusername/YTRAG)
 [![Forks](https://img.shields.io/github/forks/yourusername/YTRAG?style=social)](https://github.com/yourusername/YTRAG)
-[![Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 </div>
