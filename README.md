@@ -601,7 +601,7 @@ Contributions are welcome! Please:
 ## 📧 Contact & Support
 
 - **Author**: Akhil Shibu
-- **Email**: [your-email@example.com]
+- **Email**: [akhilshibu2710@gmail.com]
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Start a discussion for feature requests
 
