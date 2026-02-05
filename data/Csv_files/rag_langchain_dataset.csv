@@ -1,0 +1,16 @@
+id,topic,content
+1,RAG Overview,Retrieval-Augmented Generation combines document retrieval with text generation to improve factual accuracy.
+2,Why RAG,RAG reduces hallucinations by grounding LLM responses in external knowledge sources.
+3,Document Ingestion,"In RAG pipelines, documents are loaded from sources such as PDFs, CSVs, or text files."
+4,Text Chunking,Large documents are split into smaller chunks to improve embedding quality and retrieval performance.
+5,Embeddings,Embeddings convert text into numerical vectors that capture semantic meaning.
+6,Vector Databases,Vector databases like Chroma or FAISS store embeddings and support similarity search.
+7,Similarity Search,Similarity search retrieves the most relevant chunks based on vector distance metrics.
+8,Retriever,The retriever selects relevant documents from the vector database to send to the LLM.
+9,Generator,The generator uses retrieved context and a prompt to generate the final response.
+10,RAG Benefits,"RAG enables LLMs to work with private, up-to-date, and domain-specific data."
+11,LangChain,"LangChain provides abstractions for loaders, chunkers, embeddings, retrievers, and chains."
+12,CSV Loaders,LangChain includes CSVLoader to ingest structured CSV data into RAG pipelines.
+13,Evaluation,"RAG systems are evaluated using retrieval accuracy, response relevance, and latency."
+14,Deployment,RAG applications are commonly deployed using FastAPI or Streamlit with cloud services.
+15,Production RAG,"Production RAG systems require monitoring, logging, and embedding version control."

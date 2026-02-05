@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain_text_splitter
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
+python-dotenv
+google-generativeai
+##uv add  langchain-google-genai google-generativeai (do not forget )

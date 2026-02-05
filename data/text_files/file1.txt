@@ -1,0 +1,18 @@
+
+
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. 
+AI systems can perform tasks such as reasoning, problem-solving, perception, and language understanding.
+
+Machine Learning is a subset of AI that focuses on enabling machines to learn from data without being explicitly programmed.
+Supervised learning, unsupervised learning, and reinforcement learning are common machine learning paradigms.
+
+Large Language Models (LLMs) are trained on massive text datasets to generate human-like responses.
+They are commonly used in chatbots, document analysis, and question-answering systems.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation.
+Instead of relying only on model memory, RAG retrieves relevant documents and uses them as context.
+
+Vector databases store embeddings that represent semantic meaning.
+Similarity search allows retrieval of the most relevant chunks of information.
+
+RAG systems improve factual accuracy, reduce hallucinations, and allow models to work with private data.

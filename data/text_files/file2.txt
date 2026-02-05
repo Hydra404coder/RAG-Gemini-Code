@@ -1,0 +1,17 @@
+
+Artificial intelligence refers to computer systems designed to perform tasks that normally require human intelligence.
+These tasks include understanding language, recognizing patterns, and making decisions based on data.
+
+Machine learning enables systems to improve performance through experience.
+Models learn from historical data using techniques such as supervised, unsupervised, and reinforcement learning.
+
+Large language models are neural networks trained on vast collections of text.
+They generate responses, summarize documents, and answer questions in natural language.
+
+Retrieval-Augmented Generation enhances language models by connecting them to external knowledge sources.
+Relevant documents are retrieved and supplied as context before generating a response.
+
+Vector databases store numerical representations of text called embeddings.
+They allow efficient similarity search to find related information.
+
+RAG-based systems increase reliability, reduce incorrect outputs, and support querying private or domain-specific data.
